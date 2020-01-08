@@ -13071,26 +13071,6 @@ textarea.form-control {
   color: #000000;
 }
 
-@media screen and (max-width: 991px) {
-  .ftco-footer-social li a span {
-    margin: 0 0 0 12px;
-    font-size: 30px !important;
-  }
-
-  #secondIcon {
-    display: none;
-  }
-
-  #mainIcon {
-    display: unset !important;
-  }
-
-}
-
-#mainIcon {
-  display: none;
-}
-
 .ftco-footer-social li {
   list-style: none;
   margin: 0 10px 0 0;

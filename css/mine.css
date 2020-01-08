@@ -1,0 +1,29 @@
+@media (max-width: 991px) {
+    .ftco-footer-social li a span {
+        margin: 0 0 0 0;
+        font-size: 30px !important;
+    }
+
+    #secondIcon {
+        display: none;
+    }
+
+    #mainIcon {
+        display: unset !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .ftco-footer-social li a {
+        width: 0px;
+    }
+
+}
+
+#mainIcon {
+    display: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
